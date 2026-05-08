@@ -2,7 +2,7 @@
 
 Welcome to the official repository for AntiBP, a computational platform developed for the analysis and prediction of antibacterial peptides using machine learning techniques such as Support Vector Machines (SVM), Artificial Neural Networks (ANN), and Quantitative Matrices (QM).
 
-Web Server:  https://webs.iiitd.edu.in/raghava/antiangiopred/
+Web Server:  https://webs.iiitd.edu.in/raghava/antibp/
 
 ---
 
