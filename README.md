@@ -4,6 +4,8 @@ Welcome to the official repository for AntiBP, a computational platform develope
 
 Web Server:  https://webs.iiitd.edu.in/raghava/antibp/
 
+ZENODO : https://doi.org/10.5281/zenodo.20080300
+
 ---
 
 ## Brief Description
